@@ -1,6 +1,6 @@
 
 
-botToken = "6510464895:AAFTGu6ujRCFUWHCELu2f3UOVEe9fuV_iy8"
+botToken = "7637803085:AAEa432PsyWdkxIcC5T2s4eY8wNQPlnMTyA"
 
 website = "https:#api.telegram.org/bot".botToken
 update = file_get_contents('php:#input')
@@ -856,4 +856,5 @@ def sendMessage(chatId, message, messageId):
                 
                 
                 
+
                 
